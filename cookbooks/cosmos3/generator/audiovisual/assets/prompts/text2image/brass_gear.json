@@ -1,0 +1,61 @@
+{
+  "subjects": [
+    {
+      "description": "Two interlocking brass gears, a left gear and a right gear, with their teeth meshing perfectly.",
+      "appearance_details": "Polished brass material with a realistic metallic sheen, visible teeth cutouts, clean machined edges, with no clipping, overlapping, or blending between the two gears",
+      "relationship": "Interlocking mechanisms with precise contact points where the teeth meet",
+      "location": "Centered in the frame, spanning across the left and right halves",
+      "relative_size": "Large, dominating the frame to highlight the intricate details of the gear teeth",
+      "orientation": "Facing flat towards the camera",
+      "pose": "The left gear is positioned to imply a clockwise rotation, and the right gear is positioned to imply a counter-clockwise rotation, captured in a frozen moment of perfect synchronization",
+      "action": "",
+      "state_changes": "",
+      "clothing": "",
+      "expression": "",
+      "gender": "",
+      "age": "",
+      "skin_tone_and_texture": "",
+      "facial_features": "",
+      "number_of_subjects": 2,
+      "number_of_arms": 0,
+      "number_of_legs": 0
+    }
+  ],
+  "background_setting": "A simple, clean, dark studio background that provides high contrast to emphasize the metallic texture, golden hue, and form of the brass gears.",
+  "lighting": {
+    "conditions": "Studio lighting with distinct specular highlights on the metallic surfaces and edges",
+    "direction": "Top-lit and slightly from the side to define the depth and sharp lines of the gear teeth",
+    "shadows": "Subtle, crisp shadows cast within the recessed areas and teeth gaps of the gears",
+    "illumination_effect": "Bright, clear visibility with good contrast, highlighting the metallic brass texture and the exact point of engagement"
+  },
+  "aesthetics": {
+    "composition": "Centered close-up macro shot focusing directly on the point where the teeth of the two gears interlock",
+    "color_scheme": "Dominant warm golden-yellow from the brass material against a dark neutral background",
+    "mood_atmosphere": "Precise, mechanical, clean, and orderly",
+    "patterns": "Repeating radial pattern of the gear teeth"
+  },
+  "cinematography": {
+    "camera_motion": "Static camera",
+    "framing": "Close-up shot",
+    "camera_angle": "Straight-on, eye-level, perpendicular to the face of the gears",
+    "depth_of_field": "Shallow, keeping the front faces and meshing teeth of the gears in sharp focus while the background is softly blurred",
+    "focus": "The interlocking teeth in the center of the frame",
+    "lens_focal_length": "Macro lens (approximately 90mm equivalent) to capture fine detail without distortion"
+  },
+  "style_medium": "Live-action photograph",
+  "artistic_style": "Realistic studio product photography, detailed macro shot",
+  "context": "A high-resolution product photograph demonstrating the precise mechanical fit of two interlocking brass gears",
+  "actions": [],
+  "text_and_signage_elements": [],
+  "segments": [],
+  "transitions": [],
+  "temporal_caption": "A high-resolution, macro product photograph of two interlocking brass gears against a dark studio background. The left gear and right gear are perfectly aligned in the center of the frame, their precisely machined teeth meshing together flawlessly without any clipping, overlapping, or blending. The polished brass surface reflects bright studio lighting with sharp specular highlights along the edges, while a shallow depth of field keeps the focal point sharply on the interlocking mechanism.",
+  "audio_description": "",
+  "resolution": {
+    "W": 1280,
+    "H": 720
+  },
+  "aspect_ratio": "16,9",
+  "duration": "0s",
+  "fps": 0
+}

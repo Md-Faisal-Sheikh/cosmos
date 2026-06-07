@@ -1,0 +1,74 @@
+{
+  "subjects": [
+    {
+      "description": "Two interlocking brass gears, a left gear and a right gear, with their teeth meshing perfectly.",
+      "appearance_details": "Polished brass material with metallic sheen, visible teeth cutouts, clean machined edges, no clipping or blending between the two gears",
+      "relationship": "Interlocking mechanisms where the rotation of one drives or counters the other",
+      "location": "Centered in the frame, spanning across the left and right halves",
+      "relative_size": "Large, dominating the frame to show the detailed interaction of the teeth",
+      "orientation": "Facing flat towards the camera",
+      "pose": "",
+      "action": "The left gear rotates clockwise, while the right gear rotates counter-clockwise, their teeth meshing perfectly without overlapping",
+      "state_changes": "Continuous, smooth, synchronized rotational movement from the beginning of the frame",
+      "clothing": "",
+      "expression": "",
+      "gender": "",
+      "age": "",
+      "skin_tone_and_texture": "",
+      "facial_features": "",
+      "number_of_subjects": 2,
+      "number_of_arms": 0,
+      "number_of_legs": 0
+    }
+  ],
+  "background_setting": "A simple, clean, dark studio background that provides high contrast to emphasize the metallic texture and form of the brass gears.",
+  "lighting": {
+    "conditions": "Studio lighting with distinct specular highlights on the metallic surfaces",
+    "direction": "Top-lit and slightly from the side to define the edges and depth of the gear teeth",
+    "shadows": "Subtle, soft shadows cast within the recessed areas and teeth gaps of the gears",
+    "illumination_effect": "Bright and clear, highlighting the metallic brass texture and precise contact points"
+  },
+  "aesthetics": {
+    "composition": "Centered close-up shot focusing directly on the point where the teeth of the two gears interlock",
+    "color_scheme": "Dominant warm golden-yellow from the brass material against a dark neutral background",
+    "mood_atmosphere": "Hypnotic, precise, mechanical, and orderly",
+    "patterns": "Repeating radial pattern of the gear teeth"
+  },
+  "cinematography": {
+    "camera_motion": "Static, fixed camera position to emphasize the precise rotational movement",
+    "framing": "Close-up shot",
+    "camera_angle": "Straight-on, perpendicular to the face of the gears",
+    "depth_of_field": "Shallow, keeping the front faces and meshing teeth of the gears in sharp focus while the background is softly blurred",
+    "focus": "The interlocking teeth in the center of the frame",
+    "lens_focal_length": "Macro or standard lens (approximately 50mm to 90mm equivalent) to avoid distortion"
+  },
+  "style_medium": "Live-action video",
+  "artistic_style": "Realistic studio product footage, detailed macro shot",
+  "context": "A video generated from text demonstrating the precise mechanical interaction of two interlocking gears",
+  "actions": [
+    {
+      "time": "0:00-0:05",
+      "description": "The video starts with the gears already in motion. The left brass gear rotates smoothly in a clockwise direction, and its teeth perfectly drive the right brass gear to rotate counter-clockwise without any clipping or overlapping."
+    }
+  ],
+  "text_and_signage_elements": [],
+  "segments": [
+    {
+      "segment_index": 0,
+      "time_range": "0:00-0:05",
+      "description": "The video begins with the two interlocking brass gears in motion. They rotate in perfect synchronization from the very first frame. The left gear spins clockwise and the right gear spins counter-clockwise, with their metallic teeth meshing cleanly in the center.",
+      "key_changes": "Continuous rotational positions of the gears from start to finish",
+      "camera": "Static close-up shot focusing on the interlocking teeth"
+    }
+  ],
+  "transitions": [],
+  "temporal_caption": "The video begins with a close-up of two interlocking brass gears against a dark background, already in motion from the first frame. The left gear rotates smoothly in a clockwise direction, while the right gear rotates in a counter-clockwise direction. Their teeth mesh together perfectly in the center of the frame without any overlapping, blending, or clipping, maintaining a constant, precise mechanical motion throughout the entire duration.",
+  "audio_description": "A faint, consistent mechanical hum with the low, smooth sound of precisely machined metal surfaces interacting.",
+  "resolution": {
+    "W": 1280,
+    "H": 720
+  },
+  "aspect_ratio": "16,9",
+  "duration": "5s",
+  "fps": 24
+}
